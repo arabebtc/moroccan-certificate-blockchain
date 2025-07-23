@@ -1,0 +1,30 @@
+{
+  "name": "@mcb/networking",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "jest",
+    "lint": "eslint src --ext .ts",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@mcb/shared": "workspace:*",
+    "libp2p": "^0.46.21",
+    "@libp2p/tcp": "^9.0.21",
+    "@libp2p/websockets": "^8.0.21",
+    "@libp2p/noise": "^13.0.1",
+    "@libp2p/mplex": "^10.0.21",
+    "@libp2p/bootstrap": "^10.0.20",
+    "@libp2p/kad-dht": "^11.0.6",
+    "fastify": "^4.24.3",
+    "ws": "^8.14.2",
+    "multiaddr": "^12.1.10"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.8",
+    "typescript": "^5.3.2"
+  }
+}

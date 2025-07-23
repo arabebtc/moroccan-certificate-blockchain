@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "outDir": "./dist",
+    "rootDir": ".",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "composite": true,
+    "incremental": true,
+    "tsBuildInfoFile": ".tsbuildinfo",
+    "baseUrl": ".",
+    "paths": {
+      "@mcb/shared/*": ["./packages/shared/src/*"],
+      "@mcb/consensus/*": ["./packages/consensus/src/*"],
+      "@mcb/executor/*": ["./packages/executor/src/*"],
+      "@mcb/networking/*": ["./packages/networking/src/*"],
+      "@mcb/contracts/*": ["./packages/contracts/src/*"],
+      "@mcb/sdk/*": ["./packages/sdk/src/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist", "build", ".next"],
+  "references": [
+    { "path": "./packages/shared" },
+    { "path": "./packages/consensus" },
+    { "path": "./packages/executor" },
+    { "path": "./packages/networking" },
+    { "path": "./packages/contracts" },
+    { "path": "./packages/sdk" },
+    { "path": "./apps/node" },
+    { "path": "./packages/blockchain" },
+    { "path": "./apps/node" }
+  ]
+}

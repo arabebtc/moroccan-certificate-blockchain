@@ -1,0 +1,189 @@
+2025-07-23T16:49:25.560373Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie"), AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-07-23T16:49:25.560518Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:49:25.669845Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules"), AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie"), AnchoredSystemPathBuf(".turbo"), AnchoredSystemPathBuf(".turbo\\daemon"), AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf(".turbo\\cookies\\.turbo-cookie")}
+2025-07-23T16:49:25.669906Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:49:25.687976Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2025-07-23T16:49:26.175571Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\f2e057056d758028-turbo.log.2025-07-23")}
+2025-07-23T16:49:26.175618Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:49:27.565174Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-07-23T16:49:27.565206Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:25.568655Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\_tmp_3740_34ed5a7beec7c638c2d109d0b3ac8577"), AnchoredSystemPathBuf("moroccan-certificate-blockchain")}
+2025-07-23T16:50:25.568698Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:39.061171Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain")}
+2025-07-23T16:50:39.061212Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:39.170432Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\node_modules")}
+2025-07-23T16:50:39.170463Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:49.971111Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\node_modules")}
+2025-07-23T16:50:49.971167Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:50.066955Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\node_modules")}
+2025-07-23T16:50:50.067019Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:50.967391Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\consensus"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\consensus\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\shared"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\shared\\node_modules")}
+2025-07-23T16:50:50.967457Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:51.062467Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\consensus\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\shared\\node_modules")}
+2025-07-23T16:50:51.062608Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:54.871561Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\consensus\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\shared\\node_modules")}
+2025-07-23T16:50:54.871716Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:54.963849Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\consensus\\node_modules")}
+2025-07-23T16:50:54.963898Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:50:55.464790Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\node_modules"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\pnpm-lock.yaml"), AnchoredSystemPathBuf("moroccan-certificate-blockchain"), AnchoredSystemPathBuf("moroccan-certificate-blockchain\\pnpm-lock.yaml.3607907011")}
+2025-07-23T16:50:55.464845Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:57:35.366155Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src"), AnchoredSystemPathBuf("packages\\networking")}
+2025-07-23T16:57:35.366217Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:57:41.173773Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\blockchain"), AnchoredSystemPathBuf("packages\\blockchain\\src"), AnchoredSystemPathBuf("packages")}
+2025-07-23T16:57:41.173832Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:57:46.868572Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\node\\src"), AnchoredSystemPathBuf("apps\\node")}
+2025-07-23T16:57:46.868625Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:58:05.669576Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-07-23T16:58:05.670022Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-07-23T16:58:08.368344Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-07-23T16:58:08.368406Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-07-23T16:58:18.664319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_19532_3b8344b592b988bca1196096ebb5e9a3")}
+2025-07-23T16:58:18.664378Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:58:18.762200Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_19532_3b8344b592b988bca1196096ebb5e9a3")}
+2025-07-23T16:58:18.762316Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:58:26.960529Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-07-23T16:58:26.960589Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:58:27.061812Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-07-23T16:58:27.061836Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:58:27.195822Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-07-23T16:58:27.195853Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T16:58:28.473939Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules"), AnchoredSystemPathBuf("pnpm-lock.yaml.3023163879"), AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("pnpm-lock.yaml")}
+2025-07-23T16:58:28.473991Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:00:10.870898Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_5476_05bb3820093bd4628efd9a34a5adcbbb"), AnchoredSystemPathBuf("")}
+2025-07-23T17:00:10.870988Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:00:13.059860Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-07-23T17:00:13.059905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:00:13.164080Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-07-23T17:00:13.164122Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:00:14.270061Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-07-23T17:00:14.270106Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:00:47.171144Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tsconfig.json")}
+2025-07-23T17:00:47.171188Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:01:01.673313Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tsconfig.json")}
+2025-07-23T17:01:01.673358Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:01:12.966935Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("test-node.js")}
+2025-07-23T17:01:12.966997Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:01:13.168566Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-07-23T17:01:13.168636Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-07-23T17:01:21.666230Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("test-node.js")}
+2025-07-23T17:01:21.666328Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:02:08.471244Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking"), AnchoredSystemPathBuf("packages\\networking\\package.json")}
+2025-07-23T17:02:08.471306Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:02:18.661140Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\package.json")}
+2025-07-23T17:02:18.661205Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:02:22.365435Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\package.json")}
+2025-07-23T17:02:22.365580Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:02:58.866720Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tsconfig.json")}
+2025-07-23T17:02:58.866762Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:03:17.561061Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\index.ts")}
+2025-07-23T17:03:17.561106Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:03:17.770162Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src")}
+2025-07-23T17:03:17.770212Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:03:27.363743Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\index.ts")}
+2025-07-23T17:03:27.363880Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:03:48.372815Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\p2p-network.ts")}
+2025-07-23T17:03:48.373678Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:03:48.467948Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src")}
+2025-07-23T17:03:48.467989Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:04:02.972636Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\p2p-network.ts")}
+2025-07-23T17:04:02.972790Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:04:14.674511Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\rpc-server.ts")}
+2025-07-23T17:04:14.674572Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:04:14.769879Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src")}
+2025-07-23T17:04:14.769920Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:04:33.569008Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\rpc-server.ts")}
+2025-07-23T17:04:33.569123Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:04:46.273564Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\message-broadcaster.ts")}
+2025-07-23T17:04:46.273619Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:04:46.464718Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src")}
+2025-07-23T17:04:46.464819Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:04:59.362920Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\message-broadcaster.ts")}
+2025-07-23T17:04:59.362996Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:06:02.673164Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\shared\\src\\types.ts")}
+2025-07-23T17:06:02.673193Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:06:21.965911Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\shared\\src\\types.ts")}
+2025-07-23T17:06:21.965960Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:06:22.062516Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\shared\\src\\types.ts")}
+2025-07-23T17:06:22.062572Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:07:11.672921Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain")}
+2025-07-23T17:07:11.672966Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:07:12.271079Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages")}
+2025-07-23T17:07:12.271142Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:07:32.272157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\package.json")}
+2025-07-23T17:07:32.272214Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:07:32.362495Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain")}
+2025-07-23T17:07:32.362546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:07:39.762480Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\package.json")}
+2025-07-23T17:07:39.762519Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:07:48.567443Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\index.ts")}
+2025-07-23T17:07:48.567477Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:07:48.661319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain")}
+2025-07-23T17:07:48.661382Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:08:08.066523Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\index.ts")}
+2025-07-23T17:08:08.066582Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:08:35.666089Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src")}
+2025-07-23T17:08:35.666126Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:08:36.175552Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain")}
+2025-07-23T17:08:36.175639Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:08:39.062058Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\transaction-pool.ts")}
+2025-07-23T17:08:39.062123Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:08:39.167300Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src")}
+2025-07-23T17:08:39.167345Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:08:57.780251Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\transaction-pool.ts")}
+2025-07-23T17:08:57.780299Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:07.470395Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\block-builder.ts")}
+2025-07-23T17:09:07.470433Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:07.671261Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src")}
+2025-07-23T17:09:07.671439Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:19.777395Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\block-builder.ts")}
+2025-07-23T17:09:19.777479Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:28.374628Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\genesis.ts")}
+2025-07-23T17:09:28.375056Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:28.468011Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src")}
+2025-07-23T17:09:28.468061Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:40.974132Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\genesis.ts")}
+2025-07-23T17:09:40.974265Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:48.868351Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\block-validator.ts")}
+2025-07-23T17:09:48.868404Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:48.962866Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src")}
+2025-07-23T17:09:48.962909Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:09:59.466815Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\block-validator.ts")}
+2025-07-23T17:09:59.466874Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:10:06.460188Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\state-manager.ts")}
+2025-07-23T17:10:06.460233Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:10:06.665295Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src")}
+2025-07-23T17:10:06.665353Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:10:16.566318Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\state-manager.ts")}
+2025-07-23T17:10:16.566420Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:10:16.660806Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\packages\\blockchain\\src\\state-manager.ts")}
+2025-07-23T17:10:16.660874Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:11:07.966193Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\rpc-handlers.ts")}
+2025-07-23T17:11:07.966226Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:11:08.059775Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src")}
+2025-07-23T17:11:08.059877Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:11:28.162053Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\rpc-handlers.ts")}
+2025-07-23T17:11:28.162092Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:11:28.266558Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\networking\\src\\rpc-handlers.ts")}
+2025-07-23T17:11:28.266664Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:12:05.275148Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\node\\src\\index.ts")}
+2025-07-23T17:12:05.275213Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:12:05.463797Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\node\\src")}
+2025-07-23T17:12:05.463831Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:12:24.774769Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\node\\src\\index.ts")}
+2025-07-23T17:12:24.774862Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:13:55.470032Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node\\src\\index.ts")}
+2025-07-23T17:13:55.470089Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:14:08.570981Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node\\src\\node.ts")}
+2025-07-23T17:14:08.571056Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:14:08.664988Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node\\src")}
+2025-07-23T17:14:08.665136Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:14:22.160802Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node\\src\\node.ts")}
+2025-07-23T17:14:22.160853Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:14:33.272371Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("moroccan-certificate-blockchain\\apps\\node\\package.json")}
+2025-07-23T17:14:33.272437Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-07-23T17:16:52.766123Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-07-23T17:16:52.766262Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-07-23T17:17:44.271245Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-07-23T17:17:44.271385Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-07-23T17:19:58.961233Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\f2e057056d758028-turbo.log.2025-07-23")}
+2025-07-23T17:19:58.961282Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
